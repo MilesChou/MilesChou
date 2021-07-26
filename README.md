@@ -23,15 +23,8 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MilesChou&show_icons=true&theme=slateorange" alt="mileschou-stats" />
-</p>
-
-<h3 align="center">Use Languages</h3>
-
-<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MilesChou&layout=compact&langs_count=7&theme=slateorange" alt="mileschou-top-langs" />
 </p>
-
-<h3 align="center">Streak Stats</h3>
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MilesChou&theme=dark" alt="mileschou-streak-stats" />
