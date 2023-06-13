@@ -8,9 +8,6 @@
   <a href="https://www.docker.com" target="_blank"> <img src="https://simpleicons.org/icons/docker.svg" alt="docker" width="40" height="40"/> </a>
   <a href="https://www.php.net" target="_blank"> <img src="https://simpleicons.org/icons/php.svg" alt="php" width="40" height="40"/> </a>
   <a href="https://laravel.com" target="_blank"> <img src="https://simpleicons.org/icons/laravel.svg" alt="laravel" width="40" height="40"/> </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://simpleicons.org/icons/gnubash.svg" alt="bash" width="40" height="40"/> </a>
-  <a href="https://www.linux.org" target="_blank"> <img src="https://simpleicons.org/icons/linux.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.jetbrains.com/phpstorm" target="_blank"> <img src="https://simpleicons.org/icons/phpstorm.svg" alt="phpstorm" width="40" height="40"/> </a>
 </p>
 
 <h3 align="center">GitHub Trophies</h3>
