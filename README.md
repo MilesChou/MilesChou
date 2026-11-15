@@ -166,14 +166,6 @@ motto: "取之於社群，回饋於社群"
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MilesChou&theme=tokyonight&hide_border=true&background=1a1b27&stroke=414868&ring=7aa2f7&fire=ff9e64&currStreakLabel=7aa2f7" width="60%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MilesChou&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=a9b1d6&line=7aa2f7&point=ff9e64&area=true&area_color=7aa2f7" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MilesChou&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
-</p>
-
 <!-- ===== SNAKE ANIMATION ===== -->
 <p align="center">
   <picture>
