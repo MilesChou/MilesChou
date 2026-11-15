@@ -134,31 +134,18 @@ motto: "取之於社群，回饋於社群"
   <img src="https://skillicons.dev/icons?i=php,laravel,go,docker,git,github,linux,vim,elixir,rabbitmq,postgres,redis,nginx&perline=7" />
 </p>
 
-<!-- ===== LOWLIGHTER METRICS ===== -->
-## 📡 Metrics — Powered by [Lowlighter/Metrics](https://github.com/lowlighter/metrics)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MilesChou/MilesChou/master/metrics/topics.svg" alt="Topics / Skill Icons" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MilesChou/MilesChou/master/metrics/overview.svg" width="49%" />
-  <img src="https://raw.githubusercontent.com/MilesChou/MilesChou/master/metrics/languages.svg" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MilesChou/MilesChou/master/metrics/habits.svg" width="49%" />
-  <img src="https://raw.githubusercontent.com/MilesChou/MilesChou/master/metrics/isocalendar.svg" width="49%" />
-</p>
-
 <!-- ===== GITHUB STATS ===== -->
 ## 📊 GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/MilesChou">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MilesChou&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=7aa2f7&text_color=a9b1d6&ring_color=7aa2f7&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilesChou&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=a9b1d6&langs_count=8" />
+    <img height="180em" src="https://raw.githubusercontent.com/MilesChou/MilesChou/master/metrics/stats.svg" />
+    <img height="180em" src="https://raw.githubusercontent.com/MilesChou/MilesChou/master/metrics/top-langs.svg" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MilesChou/MilesChou/master/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Calendar" width="100%" />
 </p>
 
 <p align="center">
